@@ -57,7 +57,7 @@ const Card = () => {
 
                     <div className='Card-Footer'>
                         <a href="https://www.icansee.co.uk/" target='_blank'>
-                            orRegister
+                            or Register
                         </a>
                     </div>
                 </form>
