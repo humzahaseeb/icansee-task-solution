@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/icansee-task-solution/static/css/main.6ac68d9b.css",
-    "main.js": "/icansee-task-solution/static/js/main.afe3ea0a.js",
+    "main.js": "/icansee-task-solution/static/js/main.2115c19e.js",
     "static/media/background.jpg": "/icansee-task-solution/static/media/background.68336b45adec79be6141.jpg",
     "index.html": "/icansee-task-solution/index.html",
     "main.6ac68d9b.css.map": "/icansee-task-solution/static/css/main.6ac68d9b.css.map",
-    "main.afe3ea0a.js.map": "/icansee-task-solution/static/js/main.afe3ea0a.js.map"
+    "main.2115c19e.js.map": "/icansee-task-solution/static/js/main.2115c19e.js.map"
   },
   "entrypoints": [
     "static/css/main.6ac68d9b.css",
-    "static/js/main.afe3ea0a.js"
+    "static/js/main.2115c19e.js"
   ]
 }
